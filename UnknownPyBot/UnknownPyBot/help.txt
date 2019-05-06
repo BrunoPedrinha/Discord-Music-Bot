@@ -1,0 +1,6 @@
+You can type any of the following commands:
+```
+?play		- Provide a youtube URL or type your song name with artist in quotes.
+?volume	  - Provide a number between 0 and 100 to set the bot volume.
+?current	 - Displays the current song title, artist, and the user who requested the song.
+?stop		- Stops the current song if one is playing.```
